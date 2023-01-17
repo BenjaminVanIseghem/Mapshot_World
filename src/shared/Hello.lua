@@ -1,3 +1,3 @@
 return function()
-	print("Hello, world!")
+	print("Hello world, welcome to the mapshot world!")
 end
